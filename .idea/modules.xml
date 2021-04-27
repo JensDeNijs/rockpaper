@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../github/jsintro/02-colors/01-change-bcg-one/.idea/01-change-bcg-one.iml" filepath="$PROJECT_DIR$/../../github/jsintro/02-colors/01-change-bcg-one/.idea/01-change-bcg-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../github/jsintro/02-colors/02-change-bcg-two/.idea/02-change-bcg-two.iml" filepath="$PROJECT_DIR$/../../github/jsintro/02-colors/02-change-bcg-two/.idea/02-change-bcg-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../github/jsintro/02-colors/03-change-bcg-three/.idea/03-change-bcg-three.iml" filepath="$PROJECT_DIR$/../../github/jsintro/02-colors/03-change-bcg-three/.idea/03-change-bcg-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rockpaper.iml" filepath="$PROJECT_DIR$/.idea/rockpaper.iml" />
+    </modules>
+  </component>
+</project>
